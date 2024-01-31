@@ -7,10 +7,10 @@
 
 
 #### languages
-- #####JavaScript
-- #####Python
-- #####TypeScript
-- #####C++
-- #####Java
-- #####HTML
-- #####CSS
+- ##### JavaScript
+- ##### Python
+- ##### TypeScript
+- ##### C++
+- ##### Java
+- ##### HTML
+- ##### CSS
