@@ -1,16 +1,16 @@
-### Hi there 👋
+## Iam Aban Muhammed C P
+### FULL STACK WEB DEVELOPER
+- 🔭 I’m currently working on loominglunar open source org
+- 🌱 I’m currently learning docker & k8s
+- 👯 I’m looking to collaborate on full stack
+- 📫 you can contact me: abancpchengani@gmail.com
 
-<!--
-**abancp/abancp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### languages
+#####.JavaScript
+#####.Python
+#####.TypeScript
+#####.C++
+#####.Java
+#####.HTML
+#####.CSS
