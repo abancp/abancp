@@ -1,5 +1,5 @@
 ## Iam Aban Muhammed C P
-### FULL STACK WEB DEVELOPER && AI/ML
+### FULL STACK WEB DEVELOPER & AI/ML 
 
 - 🔭 I’m currently working on loominglunar open source org
 - 🌱 I’m currently learning docker & k8s
