@@ -8,10 +8,21 @@
 
 
 #### languages
-- ##### JavaScript
+- ##### AI/ML
 - ##### Python
-- ##### TypeScript
+- ##### Go
+- ##### C
 - ##### C++
 - ##### Java
+- ##### JavaScript
+- ##### TypeScript
 - ##### HTML
 - ##### CSS
+- ##### Tailwind CSS
+- ##### React
+- ##### Express
+- ##### Socket I/O
+- ##### DOCKER
+- ##### MicroSerices
+- ##### SQL
+- ##### MongoDB
