@@ -1,3 +1,3 @@
 ### Iam Aban Muhammed C P
 
-#### Full Stack Dev & AI/ML Engeneer
+#### Full Stack Dev & AI/ML Engineer
