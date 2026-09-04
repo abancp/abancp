@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abancp" alt="abancp" /></a> </p>
 
-- 🔭 I’m currently working on [Lunar-Studio](https://github.com/abancp/Lunar-Studio/)
+- 🔭 I’m currently working as intern in Drishti labs incubated at IITM 
 
 - 🌱 I’m currently research on **local AI**
 
